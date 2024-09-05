@@ -9,7 +9,7 @@ This guide will help you set up the React application on your local machine. The
 First, clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/hafizhmaula/currency-exchange-app.git
+git clone https://github.com/fizipan/currency-exchange-app.git
 cd currency-exchange-app
 ```
 
