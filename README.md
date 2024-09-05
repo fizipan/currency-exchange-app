@@ -41,12 +41,4 @@ Run the following command to build and run the docker container:
 docker-compose up
 ```
 
-### 5. Start the React Application
-
-Run the following command to start the React application:
-
-```bash
-npm run dev
-```
-
 The React application will be running at [http://localhost:9000](http://localhost:9000).
